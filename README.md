@@ -1,5 +1,8 @@
 # web-ifc-three
 
+- [IFC viewer](https://github.com/sermonis/web-ifc-viewer)
+- [IFC.js ecosystem](https://agviegas.github.io/ifcjs-docs/#/)
+
 This library is the implementation of [web-ifc](https://github.com/tomvandig/web-ifc) for [THREE.js](https://github.com/mrdoob/three.js/). This allows to parse and generate the Three.js geometry of IFC models in JavaScript, both in the browser and on a Node server, as well as query the IFC data and override it. 
 
 Note that you should use the IFCLoader of Three.js. Use this package only if you want to test the latest features that haven't been merged to three yet.
